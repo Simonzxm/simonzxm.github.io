@@ -1,3 +1,12 @@
+---
+title: Guide to building your own Forge Javadocs
+date: 2022-09-02
+categories:
+- Minecraft
+- Java
+- Forge
+- IDEA
+---
 # [Guide to building your own Forge Javadocs](https://github.com/Nekoyue/ForgeJavaDocs-NG/blob/master/GUIDE.md)
 
 This guide uses IntelliJ IDEA's build-in tools to generate Javadocs. An alternative way is to use `javadoc`
