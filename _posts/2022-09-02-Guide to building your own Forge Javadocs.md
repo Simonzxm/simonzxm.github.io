@@ -1,7 +1,9 @@
 ---
 title: Guide to building your own Forge Javadocs
 date: 2022-09-02
-categories:
+catagories:
+- Minecraft
+tags:
 - Minecraft
 - Java
 - Forge

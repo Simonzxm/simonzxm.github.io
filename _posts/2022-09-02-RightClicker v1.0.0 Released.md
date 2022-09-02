@@ -3,6 +3,12 @@ title: RightClicker v1.0.0 Released
 date: 2022-09-02
 categories:
 - Minecraft
+tags:
+- Minecraft
+- Github
+- Mod
+- Forge
+- Java
 ---
 
 # [RightClicker v1.0.0](https://github.com/Simonzxm/RightClicker)
