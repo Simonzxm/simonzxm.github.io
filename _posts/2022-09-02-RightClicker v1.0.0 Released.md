@@ -1,5 +1,5 @@
 ---
-title: RightClicker v1.0.0 Released
+title: "RightClicker v1.0.0 Released"
 date: 2022-09-02
 categories:
 - Minecraft
