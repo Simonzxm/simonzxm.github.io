@@ -16,6 +16,7 @@ A mod for auto-right-clicking an item on the hotbar.
 Thanks [狼狗](https://space.bilibili.com/1461000070) for his help.
 
 ---
+
 ## - how to use -
 Type `/rightclicker <slot>` or `/rc <slot>`
 
