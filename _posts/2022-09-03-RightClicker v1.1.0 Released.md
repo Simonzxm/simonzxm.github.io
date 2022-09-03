@@ -5,7 +5,7 @@ categories:
 - Minecraft
 tags:
 - Minecraft
-- Github
+- GitHub
 - Mod
 - Forge
 - Java
@@ -27,4 +27,4 @@ Thanks [狼狗](https://space.bilibili.com/1461000070) for his help.
 
 ### Download [Here](https://github.com/Simonzxm/RightClicker/releases/download/v1.1.0/RightClicker-1.1.0.jar)
 
-See on [Github](https://github.com/Simonzxm/RightClicker/releases/tag/v1.1.0)
+See on [GitHub](https://github.com/Simonzxm/RightClicker/releases/tag/v1.1.0)

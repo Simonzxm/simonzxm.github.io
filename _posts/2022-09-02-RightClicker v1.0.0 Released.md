@@ -5,7 +5,7 @@ categories:
 - Minecraft
 tags:
 - Minecraft
-- Github
+- GitHub
 - Mod
 - Forge
 - Java
@@ -26,4 +26,4 @@ Control configurations will be released later.
 
 ### Download [Here](https://github.com/Simonzxm/RightClicker/releases/download/v1.0.0/RightClicker-1.0.0.jar)
 
-See on [Github](https://github.com/Simonzxm/RightClicker/releases/tag/v1.0.0)
+See on [GitHub](https://github.com/Simonzxm/RightClicker/releases/tag/v1.0.0)
