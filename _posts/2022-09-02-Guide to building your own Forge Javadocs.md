@@ -10,8 +10,6 @@ tags:
 - IDEA
 ---
 
-# [Guide to building your own Forge Javadocs](https://github.com/Nekoyue/ForgeJavaDocs-NG/blob/master/GUIDE.md)
-
 This guide uses IntelliJ IDEA's build-in tools to generate Javadocs. An alternative way is to use `javadoc`
 or `./gradlew javadoc` command, and the procedure is not covered here.
 
@@ -39,3 +37,5 @@ or `./gradlew javadoc` command, and the procedure is not covered here.
     <img src="https://gist.github.com/Nekoyue/b282e42f033572d7548a640d9f02b28f/raw/a33f35ba90bb299e14666736bd430c6a1658e3e2/1_GenerateJavaDocWindow.png" width="500" alt="Generate JavaDoc window"/>
 
 6. Complete by clicking "OK" button and take a break. Done.
+
+From [Github](https://github.com/Nekoyue/ForgeJavaDocs-NG/blob/master/GUIDE.md)
