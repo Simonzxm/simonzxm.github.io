@@ -38,4 +38,6 @@ Tips: It's better to edit with VS Code or Notepad++ after cloning your repositor
 
 ## III Congratulations! You have successfully created your own blog!
 
+Don't forget to commit and push your repository after changing something. Your changes may be applied online after 10 minutes sometimes.
+
 For more informations, you can search online or just refer to [my blog](https://github.com/Simonzxm/simonzxm.github.io)
