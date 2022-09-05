@@ -11,6 +11,7 @@ Youtube [Simonzxm](https://www.youtube.com/channel/UCjADkBfWfOXjcfbDbS8qVhw)
 Facebook [XM Zheng](https://www.facebook.com/profile.php?id=100085017979262)
 Twitter [Simonzxm @trytocrash](https://twitter.com/trytocrash)
 Steam [Simonzxm (simonzxm9)](https://steamcommunity.com/profiles/76561198974270097/)
+Tumblr [zxmsimon](https://www.tumblr.com/blog/zxmsimon)
 ## Mails
 17771800929@189.cn
 ximingzheng@sina.cn
