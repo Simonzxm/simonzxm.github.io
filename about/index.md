@@ -13,7 +13,6 @@ Twitter [Simonzxm @trytocrash](https://twitter.com/trytocrash)
 Steam [Simonzxm (simonzxm9)](https://steamcommunity.com/profiles/76561198974270097/)
 Tumblr [zxmsimon](https://www.tumblr.com/blog/zxmsimon)
 ## Mails
-17771800929@189.cn
 ximingzheng@sina.cn
 3012635738@qq.com
 simonzxm@qq.com
