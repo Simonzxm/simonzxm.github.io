@@ -7,7 +7,6 @@ tags:
 - Guide
 - Z-Library
 - Tor
-- Jekyll
 ---
 
 1. Download Tor Browser
